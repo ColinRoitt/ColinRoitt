@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi Friends 👋
 
-<!--
-**ColinRoitt/ColinRoitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>I'm Colin</strong><br/><em>They/Them</em>
+  <br/><br/>
+  <samp>
+I'm a graduating Comp Sci Masters student at UoY. I'm also a producer, presenter, and programmer with <a href='https://github.com/UniversityRadioYork'>URY</a> - a student led radio station. I've done a lot of AI work over the last few years but my real passion lies in web development. 
+     <br><br>📫 Contact me on <a href="https://twitter.com/Colin Roitt">Twitter</a> or <a href="mailto:me@colinroitt.uk">Send an Email</a>
+  </samp>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my Masters Disseration - inverse modeling of fabrics
+- 💬 I'm looking for graduation web dev positions so get in touch
