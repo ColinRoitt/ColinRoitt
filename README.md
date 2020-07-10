@@ -10,4 +10,5 @@ I'm a graduating Comp Sci Masters student at UoY. I'm also a producer, presenter
 </p>
 
 - 🔭 I’m currently working on my Masters Disseration - inverse modeling of fabrics
+- ⌨️ Languages incl. Javascript (Typescript), HTML5/CSS3/SCSS, Python, PHP, Java, C#, and VB.net
 - 💬 I'm looking for graduate web dev positions so get in touch
