@@ -1,6 +1,5 @@
-### Hi Friends 👋
-
 <p align="center">
+  <h2>Hi Friends 👋</h2>
   <strong>I'm Colin</strong><br/><em>They/Them</em>
   <br/><br/>
   <samp>
