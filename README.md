@@ -13,3 +13,10 @@
 - ⌨️ Languages incl. Javascript (Typescript), HTML5/CSS3/SCSS, Python, PHP, Java, and C# and VB.net
 - 💻 Web development frameworks include Vue, React, and Node.js technologies
 - 💬 I'm looking for graduate web dev positions so get in touch
+
+
+<p align="center">
+  <samp>
+    📫 Contact me on <a target='_blank'  href="https://twitter.com/ColinRoitt">Twitter</a> or <a target='_blank' href="mailto:me@colinroitt.uk">Send an Email</a>
+  </samp>
+</p>
