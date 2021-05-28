@@ -5,7 +5,7 @@ ___
   <strong>I'm Colin</strong><br/><em>They/Them</em>
   <br/><br/>
   <samp>
-    I recently graduated with a Comp Sci Masters degree from the <a target='_blank' href='https://www.york.ac.uk/'>University of York</a>. I was also a producer, presenter, and programmer with <a target='_blank' href='https://github.com/UniversityRadioYork/'>@UniversityRadioYork</a> - a student-led radio station. I've done a lot of AI work over the last few years but my real passion lies in web development.
+    I recently graduated with a Comp Sci Masters degree from the <a target='_blank' href='https://www.york.ac.uk/'>University of York</a>. I was also a producer, presenter, and programmer with <a target='_blank' href='https://github.com/UniversityRadioYork/'>@UniversityRadioYork</a> - a student-led radio station. I've done a lot of AI work over the last few years but my real passion lies in web development. Also, I'm a steward at Alton Towers.
   </samp>
 </p>
 
