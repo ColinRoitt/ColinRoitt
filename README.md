@@ -5,15 +5,13 @@ ___
   <strong>I'm Colin</strong><br/><em>They/Them</em>
   <br/><br/>
   <samp>
-    I recently graduated with a Comp Sci Masters degree from the <a target='_blank' href='https://www.york.ac.uk/'>University of York</a>. I was also a producer, presenter, and programmer with <a target='_blank' href='https://github.com/UniversityRadioYork/'>@UniversityRadioYork</a> - a student-led radio station. I've done a lot of AI work over the last few years but my real passion lies in web development.
+    I'm a PhD Student at the <a target='_blank' href='https://www.york.ac.uk/'>University of York</a> and producer, presenter, developer with <a target='_blank' href='https://github.com/UniversityRadioYork/'>@UniversityRadioYork</a> - a student-led radio station.
   </samp>
 </p>
 
-- 🔭 I’ve recently finished my Masters Disseration - Inverse Modeling of Fabrics
-- ⌨️ Languages incl. Javascript (Typescript), HTML5/CSS3/SCSS, Python, PHP, Java, and C# and VB.net
+- 🔭 Research in evolutionary algorithms and bio-inspired AI
+- ⌨️ Languages incl. Javascript (Typescript), HTML/CSS/SCSS, Python, PHP, Java, and C# and VB.net
 - 💻 Web development frameworks include Vue, React, and Node.js technologies
-- 💬 I'm looking for graduate web dev positions so get in touch
-
 
 <p align="center">
   <samp>
