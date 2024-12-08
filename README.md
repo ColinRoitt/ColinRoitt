@@ -10,11 +10,11 @@ ___
 </p>
 
 - 🔭 Research in evolutionary algorithms and bio-inspired AI
-- ⌨️ Languages incl. Javascript (Typescript), HTML/CSS/SCSS, Python, PHP, Java, and C# and VB.net
-- 💻 Web development frameworks include Vue, React, and Node.js technologies
+- ⌨️ Javascript and Typescript, HTML/CSS/SCSS, Python, PHP, Java, C# and VB.net, and a smattering of Go
+- 💻 Web work involved React, Redux, Vue, Node and Express, and Django.
 
 <p align="center">
   <samp>
-    📫 Contact me on <a target='_blank'  href="https://twitter.com/ColinRoitt">Twitter</a> or <a target='_blank' href="mailto:me@colinroitt.uk">Send an Email</a>
+    📫 Contact me on <a target='_blank' href="https://twitter.com/ColinRoitt">Twitter</a>, <a target='_blank' href="https://colinroitt.bsky.social/">colinroitt.bsky.social</a>, or <a target='_blank' href="mailto:me@colinroitt.uk">Send an Email</a>
   </samp>
 </p>
