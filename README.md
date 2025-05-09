@@ -11,7 +11,7 @@ ___
 
 - 🔭 Research in evolutionary algorithms and bio-inspired AI
 - ⌨️ Javascript and Typescript, HTML/CSS/SCSS, Python, PHP, Java, C# and VB.net, and a smattering of Go
-- 💻 Web work involved React, Redux, Vue, Node and Express, and Django.
+- 💻 Web work involved React, Redux, Vue, Node and Express, and Flask.
 
 <p align="center">
   <samp>
